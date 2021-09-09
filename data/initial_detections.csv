@@ -1,0 +1,101 @@
+Field Number,Source Name,Status,Detection (Y/N/M),Dirty Image: Brightest Pixel (Jy/beam),Dirty Image: 1sigma noise (Jy/beam),Dirty Image: Peak S/N,Self-calibrated image: Peak pixel,Self-calibrated image: 1sigma rms,Self-calibrated image: Peak S/N,Notes/Comments
+1,182513.1-025955,Protostellar,Y,2.58E-03,9.53E-05,27.06,3.23E-03,8.85E-05,36.44,1 bright compact source near center
+,182730.2-035032,,N,,,,,,,
+2,182754.3-034237,Protostellar,Y,6.49E-03,1.76E-04,36.86,6.62E-03,7.98E-05,82.97,2 bright compact sources near center
+,182757.5-034046,,N,,,,,,,
+,182758.8-034948,,N,,,,,,,
+,182803.8-012214,,N,,,,,,,
+3,182809.2-034809,Protostellar,Y,4.85E-02,7.59E-04,63.87,4.98E-02,1.07E-04,464.15,1 bright compact source near center
+,182820.5-013857,,N,,,,,,,
+,182830.9-034733,,N,,,,,,,
+,182832.0-015356,,N,,,,,,,
+,182844.0-012954,,N,,,,,,,
+,182847.2-012738,,N,,,,,,,
+,182857.2-014323,,N,,,,,,,
+4,182903.6-013903,Protostellar,Y,1.00E-02,1.97E-04,50.94,1.02E-02,9.48E-05,107.69,1 dim source near center; 1 bright compact source up and to the right of center
+5,182905.5-014153,Protostellar,Y,1.81E-02,2.15E-04,84.18,1.88E-02,8.52E-05,220.89,1 bright compact source near center
+6,182906.1-034251,Protostellar,Y,1.35E-03,8.79E-05,15.35,3.27E-03,1.75E-04,18.68,1 bright compact source near center-ish; another bright source at 7 o'clock
+,182906.5-020557,,N,,,,,,,
+7,182907.3-034324,Protostellar,Y,3.71E-03,1.06E-04,34.97,4.17E-03,8.37E-05,49.82,1 bright source near center
+8,182908.3-013046,Prestellar,Y,5.18E-03,1.34E-04,38.76,5.53E-03,8.97E-05,61.61,1 bright source near center; another dim compact source directly below center
+,182908.3-020528,,N,,,,,,,
+,182918.7-034503,,N,,,,,,,
+,182920.1-013618,,N,,,,,,,
+9,182923.6-013854,Protostellar,Y,6.09E-03,1.09E-04,56.05,6.55E-03,7.34E-05,89.25,1 bright compact source near center
+,182926.7-034343,,N,,,,,,,
+,182933.8-015055,,N,,,,,,,
+10,182938.0-015058,Prestellar,Y,5.98E-03,1.50E-04,39.84,6.14E-03,8.50E-05,72.19,"2 bright sources (1 compact w/ a tail, 1 slightly more ""puffy"") near center; another 2 very dim very small detections in between"
+,182941.2-015327,,N,,,,,,,
+11,182942.1-015007,Prestellar,Y,8.43E-04,9.08E-05,9.28,5.04E-03,4.78E-04,10.54,long vertical streak down the middle w/ 1 bright compact source and 1 dimmer source the streak; faint detections at far left
+12,182943.8-021256,Protostellar,Y,1.69E-03,8.10E-05,20.81,2.88E-03,1.27E-04,22.67,1 bright source near center with left tail
+,182946.8-020653,,N,,,,,,,
+,182947.4-015324,,N,,,,,,,
+,182948.8-014735,,N,,,,,,,
+,182957.5-015843,,N,,,,,,,
+13,182957.7-015758,Prestellar,Y,5.18E-04,9.70E-05,5.34,4.46E-03,3.63E-04,12.28,"3 long streaks down the left, right, and middle, with bright ""cloud"" detected in the middle streak near center"
+14,182958.2-020115,Prestellar,Y,1.79E-03,9.33E-05,19.24,3.11E-03,1.38E-04,22.52,"2 bright compact detections (1 near center, 1 at 10 o'clock); lots of tiny dim detections scattered around"
+,182958.6-020822,,N,,,,,,,
+15,182959.6-020058,Protostellar,Y,2.58E-03,8.79E-05,29.33,2.92E-03,8.13E-05,35.89,1 bright compact source near center
+16,183000.8-020657,Protostellar,Y,6.38E-04,8.37E-05,7.62,4.74E-03,3.99E-04,11.90,"lots of bright ""clouds"", with 1 big bright region near center"
+17,183001.5-021025,Protostellar,Y,1.52E-02,2.01E-04,75.77,1.60E-02,9.12E-05,175.30,1 bright compact source near center
+18,183002.1-020815,Prestellar,Y,5.87E-04,8.51E-05,6.90,6.16E-03,4.96E-04,12.41,"lots of patches all over, with one bright region near center"
+,183002.7-020103,,N,,,,,,,
+,183003.3-024830,,N,,,,,,,
+19,183004.1-020305,Protostellar,Y,3.69E-02,8.48E-04,43.45,3.67E-02,1.26E-04,292.40,"1 bright source w/ right tail, another small dim compact source, both near center"
+,183004.8-014948,,N,,,,,,,
+,183007.2-021213,,N,,,,,,,
+20,183012.4-020653,Protostellar,Y,5.92E-03,1.07E-04,55.20,6.23E-03,8.49E-05,73.44,1 bright compact source near center
+21,183014.3-015243,Prestellar,Y,5.75E-04,7.85E-05,7.32,4.44E-03,4.16E-04,10.68,1 bright-ish source near edge at 8 o'clock; lots of patches all around
+22,183014.9-013334,Protostellar,Y,5.05E-04,8.75E-05,5.78,4.84E-03,4.80E-04,10.08,1 bright region near center; lots of patches all around
+,183016.2-020716,,N,,,,,,,
+23,183017.6-020959,Protostellar,Y,9.86E-04,7.61E-05,12.95,4.01E-03,2.82E-04,14.23,2 bright compact sources near center
+,183017.9-014639,,N,,,,,,,
+,183018.1-020843,,N,,,,,,,
+24,183025.5-015420,Prestellar,Y,4.51E-03,9.25E-05,48.81,4.73E-03,7.21E-05,65.59,1 bright compact source at 2 o'clock
+25,183026.0-021041,Protostellar,Y,1.90E-02,2.21E-04,86.15,2.08E-02,6.95E-05,299.53,1 bright compact source near center
+26,183028.9-015603,Protostellar,Y,1.65E-03,8.43E-05,19.57,3.36E-03,1.66E-04,20.28,1 bright source near center with upwards tail
+,183032.5-015439,,N,,,,,,,
+,183037.9-015237,,N,,,,,,,
+,183053.4-015535,,N,,,,,,,
+,183102.6-021016,,N,,,,,,,
+,183103.7-020944,,N,,,,,,,
+,183106.4-021704,,N,,,,,,,
+,183109.7-015221,,N,,,,,,,
+27,183109.7-020622,Protostellar,Y,1.88E-03,1.29E-04,14.60,3.26E-03,1.17E-04,27.78,1 bright cloud near center with a compact source inside; another bright compact source towards 11 o'clock
+,183110.2-020438,,N,,,,,,,
+28,183110.5-020347,Prestellar,Y,3.75E-03,1.29E-04,29.04,3.88E-03,7.71E-05,50.33,1 bright compact source near center
+29,183110.8-020542,Prestellar,Y,2.06E-03,1.87E-04,11.04,3.27E-03,1.72E-04,18.97,1 bright vertical strip-shaped region near center with slightly bright source inside; another bright compact source at 6 o'clock
+,183116.7-020709,,N,,,,,,,
+30,183121.1-020619,Protostellar,Y,1.46E-03,2.78E-04,5.25,6.10E-03,6.08E-04,10.04,very bright cloud-shaped region in center; several bright vertical strips near edges
+,183129.6-021519,,N,,,,,,,
+31,183135.8-020349,Prestellar,Y,7.43E-04,1.08E-04,6.88,3.36E-03,2.25E-04,14.94,very bright cloud-shaped region near center; lots of bright regions all over
+,183137.4-021518,,N,,,,,,,
+32,183139.2-020331,Prestellar,Y,9.52E-04,1.16E-04,8.18,5.23E-03,2.99E-04,17.48,"3 horizontal strips at top, bottom, and center; bright cloud-shaped sources detected inside center strip"
+33,183139.4-021655,Protostellar,Y,4.57E-03,1.56E-04,29.30,4.72E-03,6.85E-05,68.90,1 bright compact source near center with left tail
+34,183143.8-020440,Prestellar,Y,1.32E-03,1.41E-04,9.37,3.97E-03,2.74E-04,14.48,"1 horizontal strip at center, with 2 bright sources detected inside"
+,183147.0-020425,,N,,,,,,,
+,183148.3-020139,,N,,,,,,,
+,183148.3-020348,,N,,,,,,,
+,183149.3-020038,,N,,,,,,,
+35,183152.3-020127,Protostellar,Y,1.42E-03,7.25E-05,19.61,2.82E-03,1.29E-04,21.84,1 bright compact source near center
+36,183152.6-022938,Protostellar,Y,1.09E-02,1.57E-04,69.55,1.21E-02,6.93E-05,174.36,1 bright compact source near center
+,183152.7-015727,,N,,,,,,,
+,183153.5-021922,,N,,,,,,,
+,183157.4-020025,,N,,,,,,,
+,183202.7-023245,,N,,,,,,,
+,183203.6-014757,,N,,,,,,,
+,183204.2-020137,,N,,,,,,,
+37,183205.2-022111,Protostellar,Y,2.23E-03,1.10E-04,20.26,2.85E-03,9.23E-05,30.88,1 bright puffy source near center
+38,183216.1-023449,Protostellar,Y,3.70E-03,8.63E-05,42.87,4.03E-03,6.30E-05,63.97,1 bright compact source near center; another dim source to 4 o'clock
+,183226.8-021229,,N,,,,,,,
+39,183228.8-015221,Protostellar,Y,1.02E-02,1.35E-04,75.30,1.04E-02,5.92E-05,175.67,1 bright compact source near center
+40,183229.0-015242,Prestellar,Y,6.53E-03,1.12E-04,58.60,6.79E-03,6.89E-05,98.53,1 bright compact source near top edge
+,183236.3-014841,,N,,,,,,,
+,183247.6-015150,,N,,,,,,,
+,183303.4-025106,,N,,,,,,,
+,183305.8-025200,,N,,,,,,,
+,183629.9-023129,,N,,,,,,,
+,183634.1-023210,,N,,,,,,,
+41,183636.1-022144,Protostellar,Y,3.09E-03,1.28E-04,24.20,3.39E-03,7.81E-05,43.40,2 bright puffy (compact?) sources near center
+42,183638.6-022344,Protostellar,Y,3.34E-03,8.22E-05,40.58,3.60E-03,6.33E-05,56.78,1 bright compact source near center
+43,183640.3-023402,Protostellar,Y,2.51E-03,1.02E-04,24.52,3.49E-03,7.73E-05,45.19,1 bright puffy source near center; another dim elliptical source slightly above center
