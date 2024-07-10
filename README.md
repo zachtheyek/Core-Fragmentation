@@ -1,4 +1,4 @@
-# Core-Fragmentation
+# Summary
 Our work focuses on applying self-calibration procedures on ALMA observations using the CASA software package. Please refer to the following snippet from [_Yek et. al. (2020)_](https://arxiv.org/pdf/2009.08019), which elaborates further on the technique's merits. 
 
 ![](fig/img_01.png)
