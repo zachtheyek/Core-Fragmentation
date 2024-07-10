@@ -13,4 +13,6 @@ Subsequently, we overlayed the self-calibrated images with known protostellar co
 ![](fig/img_03.png)
 ![](fig/img_04.png)
 
-The full set of outputs are in `fig/detected_sources.pdf`. The analysis of our results has unfortunately been backlogged indefinitely. 
+The full set of outputs are available in `fig/detected_sources.pdf`. 
+
+Unfortunately, the analysis of our results has been backlogged indefinitely. Hence, our contributions conclude here.
